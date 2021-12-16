@@ -1,0 +1,11 @@
+int counter;
+int green_repeats;
+int blue_repeats;
+int frturn;
+int flturn;
+int brturn;
+int blturn;
+int seright;
+int seleft;
+int semiddle;
+int color;
