@@ -1,7 +1,7 @@
 #include </home/root/Documents/KISS/Default User/palms/include/functions.h>
 #include </home/root/Documents/KISS/Default User/palms/include/variables.h>
 #include <kipr/wombat.h>
-
+//variables
 servo_L=200;
 servo_R=1800;
 left=0;
